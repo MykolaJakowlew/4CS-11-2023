@@ -1,0 +1,104 @@
+#site-name {
+ color: whitesmoke;
+ text-align:center ;
+ text-transform: capitalize;
+ font-family: 'online', sans-serif;
+ padding-top: 10px;
+ font-size: 30px;
+ cursor: pointer;
+}
+
+#menu {
+ color: cornsilk;
+ font-size: 12px;
+ width: 75%;
+ margin-left: 12.5%;
+ text-align: center;
+ padding: 10px;
+}
+
+#menu > item {
+ border: 2px solid grey;
+ border-radius: 10px;
+ padding: 5px;
+ cursor: pointer;
+}
+.galery-image {
+ width:100%;
+}
+/*
+width = 30%
+ + margin-left 1.45%
+ + margin-right 1.45%
+ + border-left 1px
+ + border-right 1px
+*/
+/*
+ box-sizing: border-box;
+width = 30%(
+ content
+ + margin-left 1.45%
+ + margin-right 1.45%
+ + border-left 1px
+ + border-right 1px)
+*/
+.galery-item {
+ box-sizing: border-box;
+ width:30%;
+ margin: 0 1.45%;
+ display: inline-block;
+ border: 1px solid grey;
+ padding: 10px;
+ text-align: center;
+ background-color: antiquewhite;
+}
+
+.galery-item > p {
+ font-size: 10px;
+ text-align: right;
+}
+
+
+/*
+1. Add class to span
+2. Add Id to span
+3. galery-item span
+4. galery-item>span
+5. span
+*/
+.galery-image+br+span {
+ color: orange;
+ text-decoration: underline;
+}
+
+
+.galery-image-2 {
+ width:100%; 
+ height: 100px;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: contain;
+}
+
+/* #img-1, #img-2, #img-3 {
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: contain;
+} */
+
+#img-1 {
+ background-image: url('./imgs/_127765594_coopershillnathanmillar.jpg');
+}
+
+#img-2 {
+ background-image: url('./imgs/GettyImages-1273584292-cbcd5f85f4c646d58f7a7fa158dcaaeb.jpg');
+}
+
+#img-3 {
+ background-image: url('./imgs/v_chem_raznica_mezhdu_forest_i_wood__188.jpg');
+}
+
+.height-equal {
+ height: 190px;
+ display: inline-table;
+}
