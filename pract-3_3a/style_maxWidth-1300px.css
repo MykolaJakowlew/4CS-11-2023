@@ -1,0 +1,25 @@
+.content {
+ flex-direction: column;
+ align-items: center;
+}
+.item {
+ width:70%;
+ height: 300px;
+ aspect-ratio: unset;
+ 
+}
+
+.item>img {
+ aspect-ratio: unset;
+ height: 100%;
+ width: unset;
+}
+
+.item:nth-last-child(1),
+.item:nth-last-child(2) {
+ flex-direction: row;
+}
+
+.item:nth-child(2n) {
+ flex-direction: row-reverse;
+}
