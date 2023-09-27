@@ -1,0 +1,73 @@
+* {
+ margin: 0;
+ box-sizing: border-box;
+ display: flex;
+ flex-wrap: wrap;
+ margin: 2.5px;
+}
+
+body {
+ background-color: gray;
+}
+
+.first {
+ width:500px;
+ height: 500px;
+ background-color: yellow;
+
+ /* C */
+ >.thrid {
+  animation: anim-1 1s infinite;
+  &:hover {
+   animation-play-state: paused;
+  }
+ }
+
+ /* B */
+ >.second>.thrid {
+  border-radius: 50%;
+ }
+}
+
+@keyframes anim-1 {
+ 100% {
+  transform: rotate(360deg);
+ }
+}
+
+/* D
+.first >.thrid:hover {
+ animation-play-state: paused;
+} */
+
+/* C
+.first >.thrid {
+ animation: anim-1 1s infinite;
+} */
+
+
+/* B
+.first>.second>.thrid {
+ border-radius: 50%;
+} */
+
+.second {
+ width:100px;
+ height: 100px;
+ background-color: red;
+ /* A */
+ >.thrid {
+  background-color: brown;
+ }
+}
+/* A
+.second > .thrid {
+ background-color: brown;
+} */
+
+.thrid {
+ width:50px;
+ height:  50px;
+ background-color: aqua;
+}
+
