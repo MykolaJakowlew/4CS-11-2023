@@ -1,0 +1,12 @@
+.container {
+ width : 100%;
+ min-width: unset;
+ padding: 0 15px;
+ box-sizing: border-box;
+}
+
+.cities {
+ grid-template-columns: repeat(2, 1fr);
+ padding: 15px;
+ height: auto;
+}
