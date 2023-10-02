@@ -1,0 +1,53 @@
+Fonts used in this design:
+
+Font: Bodoni Moda
+Author: Owen Earl
+Url: https://fonts.google.com/specimen/Bodoni+Moda
+
+Font: Bahianita
+Author: Omnibus-Type
+Url: https://fonts.google.com/specimen/Bahianita
+
+Font: Barriecito
+Author: Omnibus-Type
+Url: https://fonts.google.com/specimen/Barriecito
+
+Font: Advent Pro
+Author: Andreas Kalpakidis
+Url: https://fonts.google.com/specimen/Advent+Pro
+
+Font: Alfa Slab One
+Author: JM Solé
+Url: https://fonts.google.com/specimen/Alfa+Slab+One
+
+Font: Bitter
+Author: Huerta Tipográfica
+Url: https://fonts.google.com/specimen/Bitter
+
+Font: Changa One
+Author: Eduardo Tunni
+Url: https://fonts.google.com/specimen/Changa+One
+
+Font: Vast Shadow
+Author: Nicole Fally
+Url: https://fonts.google.com/specimen/Vast+Shadow
+
+Font: Andada
+Author: Huerta Tipográfica
+Url: https://fonts.google.com/specimen/Andada
+
+Font: Prata
+Author: Cyreal
+Url: https://fonts.google.com/specimen/Prata
+
+Font: Abril Fatface
+Author: TypeTogether
+Url: https://fonts.google.com/specimen/Abril+Fatface
+
+Font: Yeseva One
+Author: Jovanny Lemonad
+Url: https://fonts.google.com/specimen/Yeseva+One
+
+Font: Dancing Script
+Author: Impallari Type
+Url: https://fonts.google.com/specimen/Dancing+Script

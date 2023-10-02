@@ -1,0 +1,36 @@
+.container {
+ width: 100%;
+ display: flex;
+ flex-wrap: wrap;
+}
+
+.item {
+ width:50px;
+ aspect-ratio: 1/1;
+ background-color: var(--bg-color);
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ color: white;
+ margin: 5px;
+ box-sizing: border-box;
+
+ animation: appear-item 0.75s var(--anim-delay) backwards;
+}
+
+.empty {
+ opacity: 0;
+ transition: 0.25s 
+}
+
+@keyframes appear-item {
+ 0%{
+  opacity: 0;
+  transform: scale(0.75);
+ }
+
+ 100% {
+  opacity: 1;
+  transform: scale(1);
+ }
+}

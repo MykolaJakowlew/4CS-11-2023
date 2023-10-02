@@ -10,7 +10,7 @@ a = "123213";
 a = "sdfmksd fsdlk nlsdfn";
 
 const b = "123";
-b = 56;
+// b = 56; -> error
 
 console.log(a, b, "sdfsdf "/*, ...*/);
 // console.error(a, b, "sdfsdf "/*, ...*/);
@@ -204,4 +204,58 @@ arrowFunc1();
 
  console.log('res:', increase([1, 2, 3, 4, 5, 6, 7], 56));
  console.log('res:', increase([34, 121, 345, 34654], 78));
+}
+
+{
+ const humanFirstName = "first name 1";
+ const humanLastName = "last name 1";
+ const humanAge = 45;
+
+ const human = {
+  firstName: 'f1',
+  lastName: 'l1',
+  age: 45,
+  // cityName: 'Lviv'
+ };
+
+ console.log('human 1', human.firstName, human.lastName, human.age);
+ console.log('human 1', human); // human 1 [Object object]
+ console.log('human 1', JSON.stringify(human)); // human 1 { firstName: 'f1',lastName: 'l1', age: 45 }
+
+ human.age = 78;
+ // human = { g: 56 } // => error
+ human.cityName = 'Lviv';
+
+ delete human.cityName;
+
+ /**
+  * car: { license: string, model: string }
+  */
+
+ human.car = { license: 'license 1', model: 'model 1' };
+ human.car.license = 'license editable';
+
+ const students = [
+  { firstName: 'f1' }, // 0
+  { firstName: 'f2' }, // 1
+  { firstName: 'f3' }, // 2
+  { firstName: 'f4' }, // 3
+ ];
+
+ students[3].firstName = 'f3 editable';
+
+ const newStudent = { firstName: 'f5' };
+ students[1] = newStudent;
+
+ newStudent.lastName = 'l5';
+
+ console.log(JSON.stringify(students[1])); // { firstName: 'f5', lastName: 'l5' }
+
+ let str = '{ "value": 65, "text": "str -1", "sub": { "name": "qwerty"} }';
+
+ const q = JSON.parse(str);
+
+ console.log(q.value); // => 65
+ console.log(q.text); // => "str -1"
+
 }
