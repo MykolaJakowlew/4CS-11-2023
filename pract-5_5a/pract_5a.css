@@ -1,0 +1,17 @@
+body {
+ background-color: rgb(215, 213, 213);
+ margin: 0;
+}
+
+.container {
+ width: 60%;
+ margin: auto;
+ font-size: 1.25em;
+ box-sizing: border-box;
+ padding: 10px;
+ text-align: justify;
+}
+
+.container > span {
+ color: red;
+}
