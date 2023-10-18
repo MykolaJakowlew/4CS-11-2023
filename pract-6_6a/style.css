@@ -1,0 +1,45 @@
+* { 
+ box-sizing: border-box;
+}
+
+body {
+ margin: 0;
+ background-color: #1d2d44;
+ display: flex;
+}
+
+
+.container {
+ margin: auto;
+ width:800px;
+ aspect-ratio: 2/1;
+
+ color: #f0ebd8;
+
+ border-radius: 50px;
+ background: #748cab;
+ box-shadow:  20px 20px 60px #1e2652,
+              -20px -20px 60px #1e2652;
+ padding: 50px;
+
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ flex-direction: column;
+}
+
+.container > button {
+ padding: 20px;
+    font-size: 2em;
+    border-radius: 50px;
+}
+
+.container > #fact {
+ width:80%;
+ height: 50%;
+ border: 2px solid black;
+ margin: 10px 0;
+ padding: 10px;
+ font-size: 2em;
+ overflow-y: auto;
+}
