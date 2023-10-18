@@ -179,3 +179,67 @@ body {
  box-sizing: border-box;
  background-color: white;
 }
+
+.picture {
+  position: relative;
+  width:100%;
+
+  display: flex;
+  justify-content: end;
+}
+
+.picture img {
+  width:500px;
+  aspect-ratio: 1/1;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: right;
+  align-self: end;
+}
+
+.picture .text-block {
+  width: 250px;
+  aspect-ratio: 1/1;
+  border-radius: 15px;
+  padding: 15px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: left;
+  position: absolute;
+  top: 40%;
+  left: -22%;
+}
+
+.picture .text-block .title {
+  font-size: 1.25em;
+  font-weight: bolder;
+  color: black;
+  text-align: left;
+}
+
+.picture .text-block .small-text {
+  font-size: 0.75em;
+  font-style: italic;
+}
+
+.picture .text-block .button {
+  color: black;
+  background-color: var(--circle-bg-yellow);
+  border-radius: 25px;
+  padding: 15px 35px;
+  width: fit-content;
+}
+.picture .wrapper {
+  position: relative;
+  width: fit-content;
+}
+
+.flex-center {
+  display: flex;
+}
+
+.flex-center>* {
+  margin: auto;
+}
