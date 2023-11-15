@@ -1,0 +1,540 @@
+{
+ "status": "ok",
+ "totalResults": 25,
+ "articles": [
+  {
+   "title": "NTSB releases image of 'close call' between JetBlue flight, Learjet at Logan Airport - CBS Boston",
+   "url": "https://www.cbsnews.com/boston/news/ntsb-report-jetblue-hop-a-jet-close-call-logan-airport/",
+   "published_date": "2023-08-04T03:23:00+00:00",
+   "publisher": {
+    "name": "CBS Boston",
+    "url": "https://www.cbsnews.com",
+    "favicon": "https://www.cbsnews.com/fly/bundles/cbsnewscore/icons/icon-192x192.png?v=523df724471d66f84598615fede8d33f"
+   },
+   "keywords": [
+    "Logan Airport",
+    "Boston"
+   ],
+   "author": [],
+   "description": "The NTSB has released its final report and a picture showing just how close two jets came to colliding at Logan Airport.",
+   "thumbnail": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/08/03/bea5d385-e583-4e9a-bd20-544d7f75b9c2/thumbnail/1200x630/8051bd836260b3fbf80a6448e266b1a0/jet2.jpg?v=523df724471d66f84598615fede8d33f"
+  },
+  {
+   "title": "Superconductor claims spark investor frenzy, but scientists are skeptical - Reuters",
+   "url": "https://www.reuters.com/technology/superconductor-claims-spark-investor-frenzy-scientists-are-skeptical-2023-08-03/",
+   "published_date": "2023-08-04T00:55:00+00:00",
+   "publisher": {
+    "name": "Reuters",
+    "url": "https://www.reuters.com",
+    "favicon": "https://www.reuters.com/pf/resources/images/reuters/favicon/tr_fvcn_kinesis_32x32.ico?d=151"
+   },
+   "keywords": [
+    "EF:TECHNOLOGY-DISRUPTED",
+    "CELRET",
+    "CYCS",
+    "CYCS08",
+    "GEN",
+    "RET",
+    "RETE",
+    "SCI",
+    "SEMI",
+    "SHOP",
+    "SHOPAL",
+    "SPCRET",
+    "TECH",
+    "TECH08",
+    "TEEQ",
+    "TEEQ08",
+    "TMT",
+    "TOPNWS",
+    "TOPCMB",
+    "EASIA",
+    "KR",
+    "ASXPAC",
+    "EMRG",
+    "CN",
+    "ASIA"
+   ],
+   "author": [],
+   "description": "South Korean researchers said they found a superconductor that works at room temperature, which has long been considered a holy grail for scientists in the field.",
+   "thumbnail": "https://www.reuters.com/resizer/TKr6iiTWx-IPLFuZj0WRSCPMVc0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4SWEIKP22BP6LNOIOCJHADTOXE.jpg"
+  },
+  {
+   "title": "Fisker reveals all-electric Alaska pickup, 3 other EV prototypes - TechCrunch",
+   "url": "https://techcrunch.com/2023/08/03/fisker-reveals-all-electric-alaska-pickup-three-other-ev-prototypes/",
+   "published_date": "2023-08-04T00:22:30+00:00",
+   "publisher": {
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com",
+    "favicon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32"
+   },
+   "keywords": [],
+   "author": [
+    "Abigail Bassett"
+   ],
+   "description": "Fisker revealed four EV prototypes Thursday, including a pickup truck, a sports car, an off-road version of its Ocean SUV and a compact SUV.",
+   "thumbnail": "https://techcrunch.com/wp-content/uploads/2023/08/fisker-alaska-truck-EV-event-abby.jpg?resize=1200,904"
+  },
+  {
+   "title": "Mapped: The Best U.S. States for Jobs by Worker Availability - Visual Capitalist",
+   "url": "https://www.visualcapitalist.com/unemployed-workers-vs-job-openings-by-us-state/",
+   "published_date": "2023-08-03T19:55:06+00:00",
+   "publisher": {
+    "name": "Visual Capitalist",
+    "url": "https://www.visualcapitalist.com",
+    "favicon": "https://www.visualcapitalist.com/wp-content/uploads/2021/04/cropped-logo-32x32.png"
+   },
+   "keywords": [],
+   "author": [
+    "Avery Koop"
+   ],
+   "description": "On average, there are 75 workers available for every 100 job openings across the country. Here's how it varies by state.",
+   "thumbnail": "https://www.visualcapitalist.com/wp-content/uploads/2023/08/shareable.jpg"
+  },
+  {
+   "title": "Jack Dorsey's Block Reports $5.5 Billion in Q2 Revenue—Almost Half of It From Bitcoin - Decrypt",
+   "url": "https://decrypt.co/151161/block-announces-increase-in-profit-year-over-year-in-q223-earnings",
+   "published_date": "2023-08-03T21:01:11+00:00",
+   "publisher": {
+    "name": "Decrypt",
+    "url": "https://decrypt.co",
+    "favicon": "https://cdn.decrypt.co/wp-content/themes/decrypt-media/assets/images/favicon-32x32.png"
+   },
+   "keywords": [],
+   "author": [
+    "Decrypt / Mat Di Salvo"
+   ],
+   "description": "The company topped profit expectations for its latest quarter.",
+   "thumbnail": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/10/shutterstock_1425729497-scaled-gID_7.jpeg"
+  },
+  {
+   "title": "Hyundai, Kia recall 92000 vehicles and tell owners to park them outside due to fire risk - Detroit Free Press",
+   "url": "https://www.freep.com/story/money/cars/2023/08/03/hyundai-kia-recall-92000-vehicles-fire-risk/70525128007/",
+   "published_date": "2023-08-03T22:11:00+00:00",
+   "publisher": {
+    "name": "Detroit Free Press",
+    "url": "https://www.freep.com",
+    "favicon": "https://www.gannett-cdn.com/sites/freep/images/favicon.png"
+   },
+   "keywords": [],
+   "author": [],
+   "description": "The affiliated Korean automakers are recalling the vehicles and also are telling owners to park them away from structures until repairs are made.",
+   "thumbnail": "https://www.gannett-cdn.com/authoring/authoring-images/2023/08/03/PDTF/70525185007-ap-23215444514065.jpg?auto=webp&crop=5615,3173,x0,y285&format=pjpg&width=1200"
+  },
+  {
+   "title": "Stock Market News, August 3, 2023: Indexes Close Lower, Treasury Yields Rise - The Wall Street Journal",
+   "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-08-03-2023",
+   "published_date": "2023-08-03T21:57:00+00:00",
+   "publisher": {
+    "name": "The Wall Street Journal",
+    "url": "https://www.wsj.com",
+    "favicon": "https://www.wsj.com/favicon.ico"
+   },
+   "keywords": [],
+   "author": [],
+   "description": "Apple, Amazon report earnings; Yield on 10-year Treasury note above 4.1%",
+   "thumbnail": "https://images.wsj.net/im-785590/social"
+  },
+  {
+   "title": "UAW demands 46% pay hike in talks with Detroit Three automakers - Detroit News",
+   "url": "https://www.detroitnews.com/story/business/autos/2023/08/03/uaw-demands-46-percent-pay-hike-in-talks-with-detroit-three-automakers/70525605007/",
+   "published_date": "2023-08-04T00:27:07+00:00",
+   "publisher": {
+    "name": "Detroit News",
+    "url": "https://www.detroitnews.com",
+    "favicon": "https://www.gannett-cdn.com/sites/detroitnews/images/favicon.png"
+   },
+   "keywords": [],
+   "author": [],
+   "description": "The proposal would be the largest pay increase in recent memory.",
+   "thumbnail": "https://www.gannett-cdn.com/presto/2023/07/12/PDTN/4e78efe5-1f60-4772-9d71-6f7e288b911b-e1fa9692-5294-4e94-9d89-b559009710e6_thumbnail.png?auto=webp&crop=849,478,x2,y0&format=pjpg&width=1200"
+  },
+  {
+   "title": "Man is charged with cheating Home Depot stores out of $300,000 with door-return scam - Yahoo News",
+   "url": "https://news.yahoo.com/man-charged-cheating-home-depot-163023566.html",
+   "published_date": "2023-08-03T19:24:48+00:00",
+   "publisher": {
+    "name": "Yahoo News",
+    "url": "https://news.yahoo.com",
+    "favicon": "https://s.yimg.com/rz/l/favicon.ico"
+   },
+   "keywords": [],
+   "author": [],
+   "description": "A Connecticut man was given nearly $300,000 in fraudulent Home Depot credit by walking into stores in several states, taking expensive doors and then returning them without a receipt, federal prosecutors allege.  Alexandre Henrique Costa-Mota, 26, of West Hartford, Connecticut, was detained without bail after a judge entered not-guilty pleas on his behalf this week in federal court in Rhode Island to wire fraud and conspiracy to commit wire fraud, the U.S. attorney's office in Providence said in a statement Wednesday.  An email seeking comment was left with Costa-Mota's attorney.",
+   "thumbnail": "https://s.yimg.com/ny/api/res/1.2/hdtLA9gJQzaX4dCiR5C.Mg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/5f88fb402ada02423d9689ceea3e8309"
+  },
+  {
+   "title": "Top CD Rates Today: Two Ways to Earn Top 5.75% APY - Investopedia",
+   "url": "https://www.investopedia.com/top-cd-rates-august-3-2023-7569451",
+   "published_date": "2023-08-03T20:02:11+00:00",
+   "publisher": {
+    "name": "Investopedia",
+    "url": "https://www.investopedia.com",
+    "favicon": "https://www.investopedia.com/favicon.ico"
+   },
+   "keywords": [],
+   "author": [],
+   "description": "Today's best CD rate is 5.75% APY, offered by both Andrews Federal Credit Union and Citizens State Bank. We track CD rates every morning to bring you the top options.",
+   "thumbnail": "https://www.investopedia.com/thmb/ZyFzJkuYIcG4rsMYkgObHnjngfU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/August3-e242a23633ee4554b600ab09757edfb7.jpg"
+  },
+  {
+   "title": "Coinbase revenue beat estimates, executives expect to win battle with SEC - Reuters",
+   "url": "https://www.reuters.com/technology/crypto-exchange-coinbases-revenue-falls-trading-volumes-remain-muted-2023-08-03/",
+   "published_date": "2023-08-03T22:26:00+00:00",
+   "publisher": {
+    "name": "Reuters",
+    "url": "https://www.reuters.com",
+    "favicon": "https://www.reuters.com/pf/resources/images/reuters/favicon/tr_fvcn_kinesis_32x32.ico?d=151"
+   },
+   "keywords": [
+    "EF:BUSINESS-FUTURE-OF-MONEY",
+    "MTPIX",
+    "BACT",
+    "BISV",
+    "BISV08",
+    "BIZ",
+    "BKRT",
+    "BLKCC",
+    "BLKCC1",
+    "BLR",
+    "BRKSER",
+    "BSUP",
+    "CDM",
+    "CEN",
+    "CMPNY",
+    "CMSS",
+    "CMSS08",
+    "CORPD",
+    "CRYCUR",
+    "CRYPLX",
+    "DBT",
+    "DBTR",
+    "ECO",
+    "FIN",
+    "FINE1",
+    "FINS",
+    "FINS08",
+    "FINTE",
+    "FINTE1",
+    "FINTEM",
+    "FNMKT",
+    "FRX",
+    "FTECH",
+    "INDS",
+    "INDS08",
+    "INT",
+    "INVBIS",
+    "INVBR",
+    "INVS08",
+    "ISER",
+    "ISER08",
+    "MCE",
+    "PUBL",
+    "PXP",
+    "RES",
+    "RESF",
+    "SWIT",
+    "TECH",
+    "TECH08",
+    "TMT",
+    "TRNPAY",
+    "AMERS",
+    "US",
+    "NAMER",
+    "GOVACT",
+    "GVGVF",
+    "GVGVF1",
+    "TOPNWS",
+    "TOPCMB"
+   ],
+   "author": [],
+   "description": "Coinbase Global beat second-quarter revenue expectations on Thursday on higher interest income while its executives said the crypto exchange expects to win its legal battle with the U.S. securities regulator.",
+   "thumbnail": "https://www.reuters.com/resizer/_TlKTCZo9rzwm_tMT0yBF0E0EH4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QJ7HITWUWRNWRIPSI5HD4NCH2I.jpg"
+  },
+  {
+   "title": "Amazon Fresh is adding self-checkout after trying Just Walk Out - Business Insider",
+   "url": "https://www.businessinsider.com/amazon-fresh-adding-self-checkout-after-trying-just-walk-out-2023-8",
+   "published_date": "2023-08-03T18:43:00+00:00",
+   "publisher": {
+    "name": "Business Insider",
+    "url": "https://www.businessinsider.com",
+    "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-192x192.png?v=2023-06"
+   },
+   "keywords": [],
+   "author": [],
+   "description": "Amazon Fresh is adding self-checkouts to some stores. It comes after its Just Walk Out technology hasn't gained expected traction.",
+   "thumbnail": "https://i.insider.com/64cbcf3a0b651c001939f83b?width=1200&format=jpeg"
+  },
+  {
+   "title": "Adidas's Sale of Yeezy Sneakers Brings in 400 Million Euros - The New York Times",
+   "url": "https://www.nytimes.com/2023/08/03/business/adidas-sale-yeezy-ye.html",
+   "published_date": "2023-08-03T17:59:44+00:00",
+   "publisher": {
+    "name": "The New York Times",
+    "url": "https://www.nytimes.com",
+    "favicon": "https://www.nytimes.com/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico"
+   },
+   "keywords": [],
+   "author": [],
+   "description": "The German sportswear company said it would donate €110 million of the proceeds to groups fighting antisemitism and racism.",
+   "thumbnail": "https://static01.nyt.com/images/2023/08/03/multimedia/03adidas-yeezy-hmjz/03adidas-yeezy-hmjz-facebookJumbo.jpg"
+  },
+  {
+   "title": "Airbnb forecasts upbeat revenue as international travel rebounds - Reuters",
+   "url": "https://www.reuters.com/business/airbnb-forecasts-q3-revenue-above-estimates-rebound-international-travel-2023-08-03/",
+   "published_date": "2023-08-03T22:21:00+00:00",
+   "publisher": {
+    "name": "Reuters",
+    "url": "https://www.reuters.com",
+    "favicon": "https://www.reuters.com/pf/resources/images/reuters/favicon/tr_fvcn_kinesis_32x32.ico?d=151"
+   },
+   "keywords": [
+    "MTPIX",
+    "BACT",
+    "BIZ",
+    "CCOS",
+    "CMPNY",
+    "CYCS",
+    "CYCS08",
+    "ENTS",
+    "ITSE",
+    "ITSE08",
+    "NETSV",
+    "NETSV1",
+    "PUBL",
+    "PXP",
+    "RES",
+    "STAY",
+    "STAY1",
+    "SWIT",
+    "TECH",
+    "TECH08",
+    "TMT",
+    "AMERS",
+    "US",
+    "NAMER",
+    "FIN",
+    "HOT",
+    "STX",
+    "TOPNWS",
+    "RELX",
+    "TOPCMB",
+    "TRAVAG"
+   ],
+   "author": [],
+   "description": "Airbnb forecast third-quarter revenue above market estimates on Thursday, but industry fears of softening U.S. domestic demand sent the vacation rental firm's shares down 1.2% in after-hours trading.",
+   "thumbnail": "https://www.reuters.com/resizer/9baoK85iimI2utjWRsvRJSiRtlk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DF4NWBNE2ZMUBBCMU2BN4K6YVY.jpg"
+  },
+  {
+   "title": "Ohio mathematician shares sure fire way to win Friday’s Mega Millions, but it’ll cost you - Cleveland 19 News",
+   "url": "https://www.cleveland19.com/2023/08/03/baldwin-wallace-mathematician-shares-one-sure-fire-way-win-fridays-mega-millions-itll-cost-you/",
+   "published_date": "2023-08-03T15:33:00+00:00",
+   "publisher": {
+    "name": "Cleveland 19 News",
+    "url": "https://www.cleveland19.com",
+    "favicon": "https://webpubcontent.gray.tv/gray/arc-fusion-assets/images/favicons/woio/favicon.ico?d=346"
+   },
+   "keywords": [
+    "mega",
+    "millions",
+    "baldwin",
+    "wallace"
+   ],
+   "author": [],
+   "description": "With $1.25 billion dollars up for grabs in Friday’s Mega Millions drawing, people are using lucky charms, lucky numbers and  just plain luck hoping to take home the fourth largest ever Mega jackpot.",
+   "thumbnail": "https://gray-woio-prod.cdn.arcpublishing.com/resizer/cyJ91pZWqgXuU6ERaS68ECC_BL0=/1200x600/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/QPOHSFBBZ5DW3ET7KGANYVH2YI.jpg"
+  },
+  {
+   "title": "Mortgage rates tick higher: 30-year, fixed home loan is at 6.90%; 15-year at 6.25% - The Associated Press",
+   "url": "https://apnews.com/article/mortgage-rates-home-loans-housing-interest-56803cb390b9c4d0df27ae35dbe54b1b",
+   "published_date": "2023-08-03T16:06:00+00:00",
+   "publisher": {
+    "name": "The Associated Press",
+    "url": "https://apnews.com",
+    "favicon": "https://apnews.com/favicon-32x32.png"
+   },
+   "keywords": [
+    "Mortgages",
+    "General news",
+    "Inflation",
+    "Federal Reserve System",
+    "Business",
+    "w",
+    "U.S. news",
+    "f",
+    "U.S. News"
+   ],
+   "author": [],
+   "description": "The average long-term U.S. mortgage rate rose again this week, bad news for Americans seeking to upgrade or buy their first home.",
+   "thumbnail": "https://dims.apnews.com/dims4/default/77cbc8e/2147483647/strip/true/crop/3859x2171+0+201/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F17%2F46%2Fc1f28fd777819804bee0ccd732b3%2F0d312ce151d54a5f9c2098ec2b762370"
+  },
+  {
+   "title": "The Bank of England Raises Rates for 14th Meeting in a Row - The New York Times",
+   "url": "https://www.nytimes.com/2023/08/03/business/bank-of-england-interest-rates.html",
+   "published_date": "2023-08-03T19:58:29+00:00",
+   "publisher": {
+    "name": "The New York Times",
+    "url": "https://www.nytimes.com",
+    "favicon": "https://www.nytimes.com/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico"
+   },
+   "keywords": [],
+   "author": [],
+   "description": "Britain’s central bank lifted rates to 5.25 percent, the highest since 2008, as it warned that some risks from persistent inflation had “crystallized.”",
+   "thumbnail": "https://static01.nyt.com/images/2023/08/03/multimedia/03boe-fqjl/03boe-fqjl-facebookJumbo.jpg"
+  },
+  {
+   "title": "Seattle-area homebuyers need to earn $142K to afford starter home - The Seattle Times",
+   "url": "https://www.seattletimes.com/business/real-estate/seattle-area-homebuyers-need-to-earn-142k-to-afford-starter-home/",
+   "published_date": "2023-08-02T18:36:09+00:00",
+   "publisher": {
+    "name": "The Seattle Times",
+    "url": "https://www.seattletimes.com",
+    "favicon": "https://www.seattletimes.com/favicon-32x32.png?v=7kovnr5xE4"
+   },
+   "keywords": [],
+   "author": [],
+   "description": "The income needed to afford a starter home in the Seattle area climbed even as the price dipped about 6%. That's because prices haven't fallen enough to offset higher mortgage...",
+   "thumbnail": "https://images.seattletimes.com/wp-content/uploads/2023/08/08012023_Starter-Home_tzr_081000.jpg?d=1200x630"
+  },
+  {
+   "title": "Booking Stock Soars on Strong Results. The Firm Expects Record Summer Travel. - Barron's",
+   "url": "https://www.barrons.com/articles/booking-summer-travel-earnings-stock-68d9466b",
+   "published_date": "2023-08-03T21:46:00+00:00",
+   "publisher": {
+    "name": "Barron's",
+    "url": "https://www.barrons.com",
+    "favicon": "https://www.barrons.com/favicon.ico"
+   },
+   "keywords": [
+    "Leisure/Arts/Hospitality",
+    "Tourism",
+    "Financial Performance",
+    "Earnings",
+    "Earnings Projections",
+    "Corporate/Industrial News",
+    "Content Types",
+    "Factiva Filters",
+    "C&E Industry News Filter",
+    "SYND",
+    "Earnings Report",
+    "Travel",
+    "Technology",
+    "Booking Holdings",
+    "BKNG",
+    "financial performance",
+    "earnings",
+    "earnings projections",
+    "corporate",
+    "industrial news",
+    "content types",
+    "factiva filters",
+    "c&e industry news filter",
+    "earnings report",
+    "travel",
+    "technology",
+    "leisure",
+    "arts",
+    "hospitality",
+    "tourism"
+   ],
+   "author": [
+    "Connor Smith"
+   ],
+   "description": "The online travel firm easily beat earnings estimates in the second quarter, and Booking says \"strong trends continue into July.\" ",
+   "thumbnail": "https://images.barrons.com/im-829547/social"
+  },
+  {
+   "title": "Amazon employees allege unsafe working conditions at St. Peters warehouse - St. Louis Post-Dispatch",
+   "url": "https://www.stltoday.com/news/local/business/amazon-employees-allege-unsafe-working-conditions-at-st-peters-warehouse/article_d516c9c6-3216-11ee-bcd4-6b639672bcef.html",
+   "published_date": "2023-08-03T22:48:00+00:00",
+   "publisher": {
+    "name": "St. Louis Post-Dispatch",
+    "url": "https://www.stltoday.com",
+    "favicon": "https://www.stltoday.com/content/tncms/site/icon.ico"
+   },
+   "keywords": [
+    "major-industry"
+   ],
+   "author": [
+    "Victor Stefanescu",
+    "Annika Merrilees"
+   ],
+   "description": "The complaint alleges that employees are rushed to pack and carry containers and that the repetitive motions are causing frequent injuries.",
+   "thumbnail": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/e/1d/e1d948c1-d6a9-5328-92b3-9b6b808111d3/633192d5f31e7.image.jpg?crop=1763%2C926%2C0%2C124&amp;resize=1200%2C630&amp;order=crop%2Cresize"
+  },
+  {
+   "title": "5 PayPal Analysts Weigh In As Stock Tanks Despite Q2 Earnings Beat: 'We Are Still In The Wait And See Sta - Benzinga",
+   "url": "https://www.benzinga.com/analyst-ratings/analyst-color/23/08/33551193/we-are-still-in-the-wait-and-see-stage-5-paypal-analysts-weigh-in-as-stock-tanks-de",
+   "published_date": "2023-08-03T14:57:17+00:00",
+   "publisher": {
+    "name": "Benzinga",
+    "url": "https://www.benzinga.com",
+    "favicon": "https://www.benzinga.com/next-assets/images/favicon-32x32.png"
+   },
+   "keywords": [],
+   "author": [
+    "Priya Nigam"
+   ],
+   "description": "Shares of PayPal Holdings Inc (NASDAQ: PYPL) tanked in early trading on Thursday, although the company reported an earnings beat for its second quarter.",
+   "thumbnail": "https://cdn.benzinga.com/files/images/story/2023/08/03/paypal_shutter2.jpg?width=1200&amp;height=800&amp;fit=crop"
+  },
+  {
+   "title": "We Sent A Toyota Land Cruiser Superfan To The Reveal And My God He Went Nuts With This Photo-Heavy Writeup - The Autopian",
+   "url": "https://www.theautopian.com/we-sent-a-toyota-land-cruiser-superfan-to-the-reveal-and-my-god-he-went-nuts-with-this-photo-heavy-writeup/",
+   "published_date": "2023-08-03T00:07:40+00:00",
+   "publisher": {
+    "name": "The Autopian",
+    "url": "https://www.theautopian.com",
+    "favicon": "https://images-stag.jazelc.com/uploads/theautopian-m2en/autopianfavicon.png"
+   },
+   "keywords": [],
+   "author": [
+    "Chris O'Neill"
+   ],
+   "description": "Last night I attended the reveal of the reimagined 2024 Toyota Land Cruiser, and after the covers came off of the two display vehicles, I got some time to climb around in both of them and take a ridiculous number of photos so I can show you, dear reader, every single thing you could possibly […]",
+   "thumbnail": "https://images-stag.jazelc.com/uploads/theautopian-m2en/tlc_up_close_ts.jpg"
+  },
+  {
+   "title": "Wabtec, union avoid court fight, reach deal over picket line conduct - GoErie.com",
+   "url": "https://www.goerie.com/story/news/local/2023/08/03/wabtec-union-avoid-court-fight-reach-deal-over-picketers-conduct/70517110007/",
+   "published_date": "2023-08-03T18:45:00+00:00",
+   "publisher": {
+    "name": "GoErie.com",
+    "url": "https://www.goerie.com",
+    "favicon": "https://www.gannett-cdn.com/sites/goerie/images/favicon.png"
+   },
+   "keywords": [],
+   "author": [],
+   "description": "As strike at Erie locomotive plant reached its sixth week, Wabtec sued to get preliminary injunction aimed at regulating activities on picket line.",
+   "thumbnail": "https://www.gannett-cdn.com/presto/2023/06/23/NETN/8d42161a-ddec-454d-a82a-34c3ee80101a-p4wabtecstrike062323.jpg?auto=webp&crop=2695,1516,x144,y257&format=pjpg&width=1200"
+  },
+  {
+   "title": "Spirit to ground 7 planes over engine issue - Fox Business",
+   "url": "https://www.foxbusiness.com/lifestyle/spirit-ground-7-planes-over-engine-issue",
+   "published_date": "2023-08-03T20:18:17+00:00",
+   "publisher": {
+    "name": "Fox Business",
+    "url": "https://www.foxbusiness.com",
+    "favicon": "https://static.foxnews.com/static/orion/styles/img/fox-business/favicons/favicon.ico"
+   },
+   "keywords": [],
+   "author": [],
+   "description": "Spirit Airlines warned investors Thursday that the carrier will have to ground seven of its planes through the remainder of the year because their engines need to be inspected.",
+   "thumbnail": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/12/0/0/Spirit.jpg?ve=1&amp;tl=1"
+  },
+  {
+   "title": "Billionaire investor Bill Ackman says he’s shorting this one asset - Fortune",
+   "url": "https://fortune.com/2023/08/03/bill-ackman-hedge-fund-perishing-square-investment-advice-30-year-treasury-bill-yield-bonds-markets-inflation/",
+   "published_date": "2023-08-03T15:15:00+00:00",
+   "publisher": {
+    "name": "Fortune",
+    "url": "https://fortune.com",
+    "favicon": "https://fortune.com/icons/favicons/favicon.ico"
+   },
+   "keywords": [],
+   "author": [],
+   "description": "The Pershing Square Capital Management CEO said he was preparing for a world where U.S. inflation lingered at around 3%.",
+   "thumbnail": "https://content.fortune.com/wp-content/uploads/2023/08/GettyImages-862490824-2-e1691074009256.jpg?resize=1200,600"
+  }
+ ]
+}
