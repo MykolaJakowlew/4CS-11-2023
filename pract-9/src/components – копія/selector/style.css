@@ -1,0 +1,17 @@
+.radio-wrapper {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ transition: 0.25s;
+ cursor: pointer;
+}
+.radio-wrapper:has(input:checked) {
+ transform: scale(1.5);
+}
+.radio-wrapper input {
+ display: none;
+}
+
+.radio-wrapper>label {
+ cursor: pointer;
+}
