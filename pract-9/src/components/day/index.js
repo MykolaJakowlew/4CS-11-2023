@@ -1,10 +1,11 @@
 import { useContext } from 'react';
 import './style.css';
 import CalendarContext from '../../context/calendar.context';
+import EventComponent from './event';
 
 const DayComponent = () => {
 
-  const { setCreateEvent, currentDate } = useContext(CalendarContext);
+  const { setCreateEvent, currentDate, events } = useContext(CalendarContext);
 
   const click = (hour, x, y) => {
     const date = new Date(currentDate);
@@ -17,6 +18,12 @@ const DayComponent = () => {
       clientY: y
     });
   };
+
+  const key = `${currentDate.getFullYear()}-${currentDate.getMonth()}-${currentDate.getDate()}`;
+  /**
+   * eventsToday => [] || undefined
+   */
+  const eventsToday = events[key] || [];
 
   return (
     <div className='content-wrapper day-wrapper '>
@@ -31,6 +38,16 @@ const DayComponent = () => {
                 <div
                   className='content'
                   onClick={(event) => click(index, event.clientX, event.clientY)}>
+                  {
+                    eventsToday.map(event => {
+                      const date = new Date(event.date);
+                      const hour = date.getHours();
+                      if (hour === index) {
+                        return (<EventComponent event={event} />);
+                      }
+                      return null;
+                    })
+                  }
                 </div>
               </div>
             );

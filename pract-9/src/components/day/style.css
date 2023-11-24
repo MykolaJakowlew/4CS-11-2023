@@ -31,6 +31,10 @@
  height: 100%;
  width:90%;
  border-top: 2px solid;
+ display: flex;
+ flex-wrap: wrap;
+ column-gap: 5px;
+ padding: 2.5px;
 }
 
 .day-wrapper .content .period:hover {

@@ -1,4 +1,4 @@
-import { useContext } from 'react';
+import { useContext, useRef } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faClose } from '@fortawesome/free-solid-svg-icons';
 import './style.css';
@@ -6,7 +6,10 @@ import CalendarContext from '../../context/calendar.context';
 
 const PopupComponent = () => {
 
- const { createEvent, setCreateEvent } = useContext(CalendarContext);
+ const { createEvent, setCreateEvent, addEvent, updateEvent } = useContext(CalendarContext);
+
+ const inputRef = useRef();
+ const textareaRef = useRef();
 
  if (createEvent == null) {
   return null;
@@ -20,6 +23,33 @@ const PopupComponent = () => {
   setCreateEvent(null);
  };
 
+ const isEditMode = Boolean(createEvent.id);
+
+
+ const save = () => {
+
+  const title = inputRef.current.value;
+  const description = textareaRef.current.value;
+
+  if (isEditMode) {
+   updateEvent({
+    id: createEvent.id,
+    date,
+    title,
+    description,
+   });
+  } else {
+   addEvent({
+    date,
+    title,
+    description,
+   });
+  }
+
+
+  close();
+ };
+
  return (
   <div
    style={{ top: top, left: left }}
@@ -27,13 +57,22 @@ const PopupComponent = () => {
    <FontAwesomeIcon icon={faClose} id='popup-close' onClick={close} />
    <div>
     <div>Date: {date.toLocaleString()}</div>
-    <div className='popup-title'>Title:<input /></div>
+    <div className='popup-title'>
+     Title:
+     <input
+      ref={inputRef}
+      defaultValue={isEditMode ? createEvent.title : ""}
+     />
+    </div>
     <div className='popup-description'>
      Description:
-     <textarea></textarea>
+     <textarea
+      ref={textareaRef}
+      defaultValue={isEditMode ? createEvent.description : ""}
+     ></textarea>
     </div>
    </div>
-   <button>save</button>
+   <button onClick={save}>save</button>
   </div>
  );
 
